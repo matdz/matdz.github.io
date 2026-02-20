@@ -1,483 +1,504 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chester's Garden | Hobbies</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+  <head>
+	<meta name="generator" content="Hugo 0.156.0">
+    
+<title>len.to</title>
 
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background-color: #fafaf9;
-            color: #1c1917;
-            line-height: 1.6;
-        }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robot" content="noimageindex">
+<meta name="description" content="len.to is a photography blog">
+<meta property="og:description" content="len.to is a photography blog">
+<meta property="og:site_name" content="len.to">
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
+<link rel="icon" href="/favicon.svg">
 
-        header {
-            padding: 40px 0;
-            border-bottom: 1px solid #e7e5e4;
-            margin-bottom: 60px;
-        }
 
-        nav {
-            display: flex;
-            gap: 24px;
-            align-items: center;
-            flex-wrap: wrap;
-            margin-bottom: 20px;
-        }
 
-        nav a {
-            color: #78716c;
-            text-decoration: none;
-            font-size: 14px;
-            transition: color 0.2s;
-        }
+<link rel="stylesheet" href="/css/bundle.min.727f98b51c4e5d64dc4851a4eb242a4b5c807c494a437f85cff60336b579849d.css" integrity="sha256-cn&#43;YtRxOXWTcSFGk6yQqS1yAfElKQ3&#43;Fz/YDNrV5hJ0=">
 
-        nav a:hover {
-            color: #1c1917;
-        }
-
-        nav a:first-child {
-            font-weight: 600;
-            color: #1c1917;
-        }
-
-        .social-links {
-            display: flex;
-            gap: 20px;
-            margin-top: 12px;
-        }
-
-        .social-links a {
-            color: #78716c;
-            text-decoration: none;
-            font-size: 13px;
-        }
-
-        h1 {
-            font-size: 48px;
-            font-weight: 300;
-            margin-bottom: 16px;
-            color: #1c1917;
-        }
-
-        .intro {
-            font-size: 16px;
-            color: #57534e;
-            max-width: 600px;
-            margin-bottom: 40px;
-        }
-
-        .filter-section {
-            margin-bottom: 40px;
-        }
-
-        .filter-label {
-            font-size: 11px;
-            text-transform: uppercase;
-            letter-spacing: 1.5px;
-            color: #a8a29e;
-            margin-bottom: 12px;
-            font-weight: 600;
-        }
-
-        .filter-buttons {
-            display: flex;
-            gap: 8px;
-            flex-wrap: wrap;
-        }
-
-        .filter-btn {
-            padding: 8px 16px;
-            border: 1px solid #e7e5e4;
-            background: white;
-            border-radius: 20px;
-            font-size: 13px;
-            cursor: pointer;
-            transition: all 0.2s;
-            color: #57534e;
-        }
-
-        .filter-btn:hover {
-            border-color: #d6d3d1;
-            background: #fafaf9;
-        }
-
-        .filter-btn.active {
-            background: #1c1917;
-            color: white;
-            border-color: #1c1917;
-        }
-
-        .masonry-grid {
-            column-count: 3;
-            column-gap: 24px;
-        }
-
-        @media (max-width: 1024px) {
-            .masonry-grid {
-                column-count: 2;
-            }
-        }
-
-        @media (max-width: 640px) {
-            .masonry-grid {
-                column-count: 1;
-            }
-        }
-
-        .card {
-            break-inside: avoid;
-            margin-bottom: 24px;
-            background: white;
-            border-radius: 12px;
-            overflow: hidden;
-            border: 1px solid #f5f5f4;
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-
-        .card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
-        }
-
-        .card.hidden {
-            display: none;
-        }
-
-        .card-image {
-            width: 100%;
-            height: auto;
-            display: block;
-            background: #f5f5f4;
-        }
-
-        .card-content {
-            padding: 20px;
-        }
-
-        .card-meta {
-            display: flex;
-            gap: 8px;
-            align-items: center;
-            margin-bottom: 12px;
-            flex-wrap: wrap;
-        }
-
-        .card-category {
-            font-size: 11px;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            color: #78716c;
-            font-weight: 600;
-        }
-
-        .card-badge {
-            font-size: 10px;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            padding: 4px 8px;
-            border-radius: 4px;
-            background: #f5f5f4;
-            color: #57534e;
-            font-weight: 600;
-        }
-
-        .card-title {
-            font-size: 18px;
-            font-weight: 500;
-            color: #1c1917;
-            margin-bottom: 8px;
-        }
-
-        .card-subtitle {
-            font-size: 13px;
-            color: #a8a29e;
-            margin-bottom: 8px;
-        }
-
-        .card-description {
-            font-size: 14px;
-            color: #57534e;
-            line-height: 1.5;
-        }
-
-        footer {
-            margin-top: 80px;
-            padding: 40px 0;
-            border-top: 1px solid #e7e5e4;
-            text-align: center;
-        }
-
-        .footer-content {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 12px;
-            font-size: 14px;
-            color: #78716c;
-        }
-
-        .footer-icon {
-            width: 24px;
-            height: 24px;
-        }
-    </style>
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-        <header>
-            <nav>
-                <a href="/">Chester</a>
-                <a href="/projects">Projects</a>
-                <a href="/writing">Writing</a>
-                <a href="/reading">Reading</a>
-                <a href="/hobbies">Hobbies</a>
-            </nav>
-            <div class="social-links">
-                <a href="https://github.com/chesterhow">GitHub</a>
-                <a href="https://twitter.com/itsnotchester">Twitter</a>
-                <a href="https://read.cv/chesterhow">CV</a>
-            </div>
-        </header>
 
-        <main>
-            <h1>hobbies.</h1>
-            <p class="intro">God knows I have too many hobbies... But I just can't help it though. I enjoy trying new things and sometimes the new things stick.</p>
+      <div class="row">
+        <div class="three columns">
+          <a class="title" href="/">len.to</a>
+        </div>
+      </div>
 
-            <div class="filter-section">
-                <div class="filter-label">FILTER</div>
-                <div class="filter-buttons">
-                    <button class="filter-btn active" data-filter="all">All</button>
-                    <button class="filter-btn" data-filter="coffee">Coffee</button>
-                    <button class="filter-btn" data-filter="plants">Plants</button>
-                    <button class="filter-btn" data-filter="climbing">Climbing</button>
-                    <button class="filter-btn" data-filter="keyboards">Keyboards</button>
-                    <button class="filter-btn" data-filter="film">Film</button>
-                </div>
-            </div>
+      <div class="row">
+        <div class="three columns left-side">
+          
+<noscript>
+<ul>
+  <li><a href="/about">about</a></li>
+  <li><a href="/tags">tags</a></li>
+</ul>
+</noscript>
 
-            <div class="masonry-grid" id="grid">
-                <!-- Coffee Cards -->
-                <div class="card" data-category="coffee">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Coffee</span>
-                            <span class="card-badge">FILTER</span>
-                            <span class="card-badge">NOW BREWING</span>
-                        </div>
-                        <h3 class="card-title">Colombia Finca La Camelia</h3>
-                        <p class="card-subtitle">Colombia · Apartment Coffee</p>
-                        <p class="card-description">Blackberry, white peach and grapefruit</p>
-                    </div>
-                </div>
+<ul class="nojs">
+  <li><a href="/about">about</a></li>
+  <li><a href="/random">random</a></li>
+  <li><a href="/tags">tags</a></li>
+</ul>
 
-                <div class="card" data-category="coffee">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Coffee</span>
-                            <span class="card-badge">ESPRESSO</span>
-                            <span class="card-badge">NOW BREWING</span>
-                        </div>
-                        <h3 class="card-title">Marimbus</h3>
-                        <p class="card-subtitle">Brazil · Market Lane Coffee</p>
-                        <p class="card-description">Hazelnut and apricot</p>
-                    </div>
-                </div>
+          
+<ul class="desktop-tag-list hidden">
+  
+    <li><a href="/tags/landscapes/">landscapes</a> (147)</li>
+  
+    <li><a href="/tags/olympic-peninsula-wa/">olympic peninsula, wa</a> (121)</li>
+  
+    <li><a href="/tags/portraits/">portraits</a> (84)</li>
+  
+    <li><a href="/tags/trees/">trees</a> (80)</li>
+  
+    <li><a href="/tags/dogs/">dogs</a> (79)</li>
+  
+    <li><a href="/tags/kenai/">kenai</a> (61)</li>
+  
+    <li><a href="/tags/climbing/">climbing</a> (58)</li>
+  
+    <li><a href="/tags/seattle-wa/">seattle, wa</a> (47)</li>
+  
+    <li><a href="/tags/on-the-road/">on the road</a> (46)</li>
+  
+    <li><a href="/tags/cars/">cars</a> (42)</li>
+  
+    <li><a href="/tags/red-rock-canyon-nv/">red rock canyon, nv</a> (35)</li>
+  
+    <li><a href="/tags/bremerton-wa/">bremerton, wa</a> (33)</li>
+  
+    <li><a href="/tags/mt.-rainier-wa/">mt. rainier, wa</a> (30)</li>
+  
+    <li><a href="/tags/hiking/">hiking</a> (29)</li>
+  
+    <li><a href="/tags/camping/">camping</a> (28)</li>
+  
+    <li><a href="/tags/julian/">julian</a> (27)</li>
+  
+    <li><a href="/tags/olives/">olives</a> (26)</li>
+  
+    <li><a href="/tags/self-portrait/">self portrait</a> (26)</li>
+  
+    <li><a href="/tags/cave-junction-or/">cave junction, or</a> (23)</li>
+  
+    <li><a href="/tags/biking/">biking</a> (23)</li>
+  
+    <li><a href="/tags/bw/">b&amp;w</a> (22)</li>
+  
+    <li><a href="/tags/port-gamble-wa/">port gamble, wa</a> (20)</li>
+  
+    <li><a href="/tags/ocean/">ocean</a> (19)</li>
+  
+    <li><a href="/tags/kyl/">kyl</a> (18)</li>
+  
+    <li><a href="/tags/water/">water</a> (18)</li>
+  
+    <li><a href="/tags/sunsets/">sunsets</a> (18)</li>
+  
+    <li><a href="/tags/grand-teton-natl-park-wyoming/">grand teton nat&#39;l park, wyoming</a> (17)</li>
+  
+    <li><a href="/tags/35mm/">35mm</a> (16)</li>
+  
+    <li><a href="/tags/mt.-baker-wa/">mt. baker, wa</a> (16)</li>
+  
+    <li><a href="/tags/neah-bay-wa/">neah bay, wa</a> (16)</li>
+  
+    <li><a href="/tags/north-cascades-wa/">north cascades, wa</a> (16)</li>
+  
+    <li><a href="/tags/leavenworth-wa/">leavenworth, wa</a> (15)</li>
+  
+    <li><a href="/tags/cle-elum-wa/">cle elum, wa</a> (13)</li>
+  
+    <li><a href="/tags/snowboarding/">snowboarding</a> (13)</li>
+  
+    <li><a href="/tags/signs/">signs</a> (13)</li>
+  
+    <li><a href="/tags/tasha/">tasha</a> (13)</li>
+  
+    <li><a href="/tags/wenatchee-natl-forest-wa/">wenatchee nat&#39;l forest, wa</a> (13)</li>
+  
+    <li><a href="/tags/utah/">utah</a> (13)</li>
+  
+    <li><a href="/tags/fish/">fish</a> (12)</li>
+  
+    <li><a href="/tags/colorado/">colorado</a> (11)</li>
+  
+    <li><a href="/tags/alberta-bc/">alberta, bc</a> (11)</li>
+  
+    <li><a href="/tags/oregon-coast/">oregon coast</a> (11)</li>
+  
+    <li><a href="/tags/mazama-wa/">mazama, wa</a> (10)</li>
+  
+    <li><a href="/tags/jacob/">jacob</a> (8)</li>
+  
+    <li><a href="/tags/lauren/">lauren</a> (8)</li>
+  
+    <li><a href="/tags/josh/">josh</a> (8)</li>
+  
+    <li><a href="/tags/washington/">washington</a> (8)</li>
+  
+    <li><a href="/tags/james/">james</a> (8)</li>
+  
+    <li><a href="/tags/shay/">shay</a> (7)</li>
+  
+    <li><a href="/tags/wildlife/">wildlife</a> (7)</li>
+  
+    <li><a href="/tags/jd/">jd</a> (7)</li>
+  
+    <li><a href="/tags/index-wa/">index, wa</a> (7)</li>
+  
+    <li><a href="/tags/green-mountain-wa/">green mountain, wa</a> (7)</li>
+  
+    <li><a href="/tags/montana/">montana</a> (7)</li>
+  
+    <li><a href="/tags/wind-river-range-wy/">wind river range, wy</a> (6)</li>
+  
+    <li><a href="/tags/daniel/">daniel</a> (6)</li>
+  
+    <li><a href="/tags/surfing/">surfing</a> (6)</li>
+  
+    <li><a href="/tags/orcas-island-wa/">orcas island, wa</a> (6)</li>
+  
+    <li><a href="/tags/vantage-wa/">vantage, wa</a> (6)</li>
+  
+    <li><a href="/tags/san-francisco-ca/">san francisco, ca</a> (5)</li>
+  
+    <li><a href="/tags/victoria-bc/">victoria, bc</a> (5)</li>
+  
+    <li><a href="/tags/pete/">pete</a> (4)</li>
+  
+    <li><a href="/tags/daniella/">daniella</a> (4)</li>
+  
+    <li><a href="/tags/bishop-ca/">bishop, ca</a> (4)</li>
+  
+    <li><a href="/tags/wyoming/">wyoming</a> (4)</li>
+  
+    <li><a href="/tags/aaron/">aaron</a> (4)</li>
+  
+    <li><a href="/tags/skateboarding/">skateboarding</a> (3)</li>
+  
+    <li><a href="/tags/alex/">alex</a> (3)</li>
+  
+    <li><a href="/tags/city-of-rocks-id/">city of rocks, id</a> (3)</li>
+  
+    <li><a href="/tags/california/">california</a> (3)</li>
+  
+    <li><a href="/tags/northbend-wa/">northbend, wa</a> (3)</li>
+  
+    <li><a href="/tags/snow/">snow</a> (3)</li>
+  
+    <li><a href="/tags/boise-id/">boise, id</a> (2)</li>
+  
+    <li><a href="/tags/glacier-natl-park-mo/">glacier nat&#39;l park, mo</a> (2)</li>
+  
+    <li><a href="/tags/lake-wenatchee-wa/">lake wenatchee, wa</a> (2)</li>
+  
+    <li><a href="/tags/packwood-wa/">packwood, wa</a> (2)</li>
+  
+    <li><a href="/tags/skagit-river-wa/">skagit river, wa</a> (2)</li>
+  
+    <li><a href="/tags/dad/">dad</a> (2)</li>
+  
+    <li><a href="/tags/sunrises/">sunrises</a> (2)</li>
+  
+    <li><a href="/tags/red-mountain-co/">red mountain, co</a> (2)</li>
+  
+    <li><a href="/tags/grand-canyon-az/">grand canyon, az</a> (2)</li>
+  
+    <li><a href="/tags/silverdale-wa/">silverdale, wa</a> (2)</li>
+  
+    <li><a href="/tags/umatilla-natl-forest-or/">umatilla nat&#39;l forest, or</a> (2)</li>
+  
+    <li><a href="/tags/wildfires/">wildfires</a> (2)</li>
+  
+    <li><a href="/tags/miami-beach-fl/">miami beach, fl</a> (1)</li>
+  
+    <li><a href="/tags/mt.-hood-or/">mt. hood, or</a> (1)</li>
+  
+    <li><a href="/tags/bend-or/">bend, or</a> (1)</li>
+  
+    <li><a href="/tags/las-vegas-nv/">las vegas, nv</a> (1)</li>
+  
+    <li><a href="/tags/portland-or/">portland, or</a> (1)</li>
+  
+    <li><a href="/tags/columbia-gorge-canyon-wa/">columbia gorge canyon, wa</a> (1)</li>
+  
+    <li><a href="/tags/bellingham-wa/">bellingham, wa</a> (1)</li>
+  
+</ul>
 
-                <div class="card" data-category="coffee">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Coffee</span>
-                            <span class="card-badge">FILTER</span>
-                        </div>
-                        <h3 class="card-title">Finca Integral el Cipres</h3>
-                        <p class="card-subtitle">Honduras · Simple Kaffa</p>
-                        <p class="card-description">Floral, cocoa nibs, dark plum and citrus</p>
-                    </div>
-                </div>
+        </div>
+        <div class="nine columns right-side">
+          <div class="gallery">
+            
+            
+              
+<a href="/img/505d42a6/"><img src="https://d17enza3bfujl8.cloudfront.net/505d42a6.jpg" alt="Packwood, WA, landscapes"></a>
 
-                <div class="card" data-category="coffee">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Coffee</span>
-                            <span class="card-badge">ESPRESSO</span>
-                        </div>
-                        <h3 class="card-title">Mexico Mico De Noche</h3>
-                        <p class="card-subtitle">Mexico · Mountain Kids Coffee Roasters</p>
-                        <p class="card-description">Floral, pear and peach</p>
-                    </div>
-                </div>
+            
+              
+<a href="/img/0fea96fc/"><img src="https://d17enza3bfujl8.cloudfront.net/0fea96fc.jpg" alt="Leavenworth, WA, biking, portraits, Shay"></a>
 
-                <!-- Plants Cards -->
-                <div class="card" data-category="plants">
-                    <img src="https://ghepxtexbwweoynirspy.supabase.co/storage/v1/object/public/content/plants/crispy-wave.png" alt="Asplenium nidus 'Crispy Wave'" class="card-image">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Plants</span>
-                            <span class="card-badge">ASPLENIACEAE</span>
-                        </div>
-                        <h3 class="card-title">Asplenium nidus 'Crispy Wave'</h3>
-                    </div>
-                </div>
+            
+              
+<a href="/img/52eb8c4e/"><img src="https://d17enza3bfujl8.cloudfront.net/52eb8c4e.jpg" alt="Leavenworth, WA, biking, portraits, self portrait"></a>
 
-                <div class="card" data-category="plants">
-                    <img src="https://ghepxtexbwweoynirspy.supabase.co/storage/v1/object/public/content/plants/pithecellobium-confertum.png" alt="Pithecellobium Confertum" class="card-image">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Plants</span>
-                            <span class="card-badge">FABACEAE</span>
-                        </div>
-                        <h3 class="card-title">Pithecellobium Confertum</h3>
-                    </div>
-                </div>
+            
+              
+<a href="/img/a03f66bf/"><img src="https://d17enza3bfujl8.cloudfront.net/a03f66bf.jpg" alt="Leavenworth, WA, biking, portraits"></a>
 
-                <div class="card" data-category="plants">
-                    <img src="https://ghepxtexbwweoynirspy.supabase.co/storage/v1/object/public/content/plants/kalimeris-indica.png" alt="Kalimeris indica" class="card-image">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Plants</span>
-                            <span class="card-badge">ASTERACEAE</span>
-                        </div>
-                        <h3 class="card-title">Kalimeris indica</h3>
-                    </div>
-                </div>
+            
+              
+<a href="/img/cc5871b7/"><img src="https://d17enza3bfujl8.cloudfront.net/cc5871b7.jpg" alt="Leavenworth, WA, biking, portraits"></a>
 
-                <!-- Climbing Cards -->
-                <div class="card" data-category="climbing">
-                    <img src="https://ghepxtexbwweoynirspy.supabase.co/storage/v1/object/public/content/climbing/20230212.png" alt="2023.02.12 @ Fit Bloc" class="card-image">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Climbing</span>
-                        </div>
-                        <h3 class="card-title">2023.02.12 @ Fit Bloc</h3>
-                    </div>
-                </div>
+            
+              
+<a href="/img/7c7273c2/"><img src="https://d17enza3bfujl8.cloudfront.net/7c7273c2.jpg" alt="Leavenworth, WA, biking"></a>
 
-                <div class="card" data-category="climbing">
-                    <img src="https://ghepxtexbwweoynirspy.supabase.co/storage/v1/object/public/content/climbing/20221222.png" alt="2022.12.22 @ Korea" class="card-image">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Climbing</span>
-                        </div>
-                        <h3 class="card-title">2022.12.22 @ Korea</h3>
-                    </div>
-                </div>
+            
+              
+<a href="/img/234ade84/"><img src="https://d17enza3bfujl8.cloudfront.net/234ade84.jpg" alt="Mt. Baker, WA, landscapes"></a>
 
-                <!-- Keyboards Cards -->
-                <div class="card" data-category="keyboards">
-                    <img src="https://ghepxtexbwweoynirspy.supabase.co/storage/v1/object/public/content/keyboards/kage.png" alt="MONOKEI x Hand Engineering KAGE" class="card-image">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Keyboards</span>
-                            <span class="card-badge">EMOGOGO GREY 01</span>
-                        </div>
-                        <h3 class="card-title">MONOKEI x Hand Engineering KAGE</h3>
-                    </div>
-                </div>
+            
+              
+<a href="/img/3930f0a5/"><img src="https://d17enza3bfujl8.cloudfront.net/3930f0a5.jpg" alt="Mt. Baker, WA, snowboarding, portraits"></a>
 
-                <div class="card" data-category="keyboards">
-                    <img src="https://ghepxtexbwweoynirspy.supabase.co/storage/v1/object/public/content/keyboards/hhkb.png" alt="HHKB Pro Hybrid Type-S Snow" class="card-image">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Keyboards</span>
-                            <span class="card-badge">TOPRE</span>
-                        </div>
-                        <h3 class="card-title">HHKB Pro Hybrid Type-S Snow</h3>
-                    </div>
-                </div>
+            
+              
+<a href="/img/8f554a1f/"><img src="https://d17enza3bfujl8.cloudfront.net/8f554a1f.jpg" alt="Mt. Baker, WA, snowboarding, portraits, kyl"></a>
 
-                <!-- Film Cards -->
-                <div class="card" data-category="film">
-                    <img src="https://ghepxtexbwweoynirspy.supabase.co/storage/v1/object/public/content/film/000047100001.jpeg" alt="Yashica 400" class="card-image">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Film</span>
-                        </div>
-                        <h3 class="card-title">Yashica 400</h3>
-                    </div>
-                </div>
+            
+              
+<a href="/img/df58ef28/"><img src="https://d17enza3bfujl8.cloudfront.net/df58ef28.jpg" alt="Olympic Peninsula, WA, snowboarding, portraits, b&amp;w"></a>
 
-                <div class="card" data-category="film">
-                    <img src="https://ghepxtexbwweoynirspy.supabase.co/storage/v1/object/public/content/film/000047120039.jpeg" alt="Kentmere Pan 400" class="card-image">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Film</span>
-                        </div>
-                        <h3 class="card-title">Kentmere Pan 400</h3>
-                    </div>
-                </div>
-
-                <div class="card" data-category="coffee">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Coffee</span>
-                            <span class="card-badge">FILTER</span>
-                        </div>
-                        <h3 class="card-title">Santuario Sul</h3>
-                        <p class="card-subtitle">Brazil · Homeground Coffee Roasters</p>
-                        <p class="card-description">Passionfruit, peach, honey and dark chocolate</p>
-                    </div>
-                </div>
-
-                <div class="card" data-category="coffee">
-                    <div class="card-content">
-                        <div class="card-meta">
-                            <span class="card-category">Hobbies · Coffee</span>
-                            <span class="card-badge">ESPRESSO</span>
-                        </div>
-                        <h3 class="card-title">Bad Blood</h3>
-                        <p class="card-subtitle">Ethiopia, Costa Rica and Nicaragua · Coffee Libre</p>
-                        <p class="card-description">Bright and syrupy</p>
-                    </div>
-                </div>
-            </div>
-        </main>
-
-        <footer>
-            <div class="footer-content">
-                <span>🍁</span>
-                <span>🍂</span>
-                <span>Planted by Chester</span>
-            </div>
-        </footer>
+            
+          </div>
+          
+    <ul class="pagination pagination-default">
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="First" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="Previous" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 1" class="page-link" role="button">1</a>
+      </li>
+      <li class="page-item">
+        <a href="/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
+      </li>
+      <li class="page-item">
+        <a href="/page/3/" aria-label="Page 3" class="page-link" role="button">3</a>
+      </li>
+      <li class="page-item">
+        <a href="/page/4/" aria-label="Page 4" class="page-link" role="button">4</a>
+      </li>
+      <li class="page-item">
+        <a href="/page/5/" aria-label="Page 5" class="page-link" role="button">5</a>
+      </li>
+      <li class="page-item">
+        <a href="/page/2/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/page/57/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
+        </div>
+      </div>
     </div>
+    
 
-    <script>
-        // Filter functionality
-        const filterButtons = document.querySelectorAll('.filter-btn');
-        const cards = document.querySelectorAll('.card');
 
-        filterButtons.forEach(button => {
-            button.addEventListener('click', () => {
-                const filter = button.dataset.filter;
-                
-                // Update active state
-                filterButtons.forEach(btn => btn.classList.remove('active'));
-                button.classList.add('active');
-                
-                // Filter cards
-                cards.forEach(card => {
-                    if (filter === 'all' || card.dataset.category === filter) {
-                        card.classList.remove('hidden');
-                    } else {
-                        card.classList.add('hidden');
-                    }
-                });
-            });
-        });
-    </script>
-</body>
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+
+
+<script src="/js/index.min.d75832278f0ae90cbf5e89ae81e24a00399a026c3f9dc6bb3707fb7949f65a81.js" defer></script>
+
+  </body>
 </html>
