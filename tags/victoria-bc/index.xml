@@ -1,46 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Victoria, BC on len.to</title>
-    <link>https://len.to/tags/victoria-bc/</link>
-    <description>Recent content in Victoria, BC on len.to</description>
+    <title>Victoria, BC on Matteo takes Photos</title>
+    <link>https://matdz.github.io/tags/victoria-bc/</link>
+    <description>Recent content in Victoria, BC on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Mar 2019 22:06:06 -0800</lastBuildDate>
-    <atom:link href="https://len.to/tags/victoria-bc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://matdz.github.io/tags/victoria-bc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L1000374</title>
-      <link>https://len.to/img/l1000374/</link>
+      <link>https://matdz.github.io/img/l1000374/</link>
       <pubDate>Tue, 05 Mar 2019 22:06:06 -0800</pubDate>
-      <guid>https://len.to/img/l1000374/</guid>
+      <guid>https://matdz.github.io/img/l1000374/</guid>
       <description></description>
     </item>
     <item>
       <title>L1000377</title>
-      <link>https://len.to/img/l1000377/</link>
+      <link>https://matdz.github.io/img/l1000377/</link>
       <pubDate>Tue, 05 Mar 2019 22:06:06 -0800</pubDate>
-      <guid>https://len.to/img/l1000377/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>9de0d88d</title>
-      <link>https://len.to/img/9de0d88d/</link>
-      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://len.to/img/9de0d88d/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>c6749e0e</title>
-      <link>https://len.to/img/c6749e0e/</link>
-      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://len.to/img/c6749e0e/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>1a3726ae</title>
-      <link>https://len.to/img/1a3726ae/</link>
-      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://len.to/img/1a3726ae/</guid>
+      <guid>https://matdz.github.io/img/l1000377/</guid>
       <description></description>
     </item>
   </channel>

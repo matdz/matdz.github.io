@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Logs on len.to</title>
-    <link>https://len.to/log/</link>
-    <description>Recent content in Logs on len.to</description>
+    <title>Logs on Matteo takes Photos</title>
+    <link>https://matdz.github.io/log/</link>
+    <description>Recent content in Logs on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2021 12:12:10 -0700</lastBuildDate>
-    <atom:link href="https://len.to/log/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://matdz.github.io/log/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Validating Generated HTML</title>
-      <link>https://len.to/log/validating-generated-html/</link>
+      <link>https://matdz.github.io/log/validating-generated-html/</link>
       <pubDate>Fri, 01 Jan 2021 12:12:10 -0700</pubDate>
-      <guid>https://len.to/log/validating-generated-html/</guid>
+      <guid>https://matdz.github.io/log/validating-generated-html/</guid>
       <description>&lt;p&gt;I ran this website through an HTML validator and&#xA;discovered it was missing some closing &lt;code&gt;&amp;lt;/div&amp;gt;&lt;/code&gt; tags. Tracking these errors down&#xA;can be challenging with generated HTML, so I decided to add linting to the build process and catch problems early.&lt;/p&gt;&#xA;&lt;h2&gt;&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://validator.w3.org/nu/&#34;&gt;Nu HTML Checker&lt;/a&gt; I used above conveniently ships a&#xA;&lt;a href=&#34;https://hub.docker.com/r/validator/validator/&#34;&gt;Docker image&lt;/a&gt; containing a CLI called &lt;code&gt;vnu&lt;/code&gt;.&#xA;I ran into two small challenges integrating &lt;code&gt;vnu&lt;/code&gt; in the multi-stage build:&lt;/p&gt;&#xA;&lt;h2&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;1-vnu-wants-a-list-of-files&#34;&gt;1. &lt;code&gt;vnu&lt;/code&gt; wants a list of files&lt;/h2&gt;&#xA;&lt;p&gt;According to the &lt;a href=&#34;https://validator.github.io/validator/#usage&#34;&gt;usage&lt;/a&gt; vnu wants a list of files:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emoji Favicons 🤔</title>
-      <link>https://len.to/log/emoji-favicons/</link>
+      <link>https://matdz.github.io/log/emoji-favicons/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://len.to/log/emoji-favicons/</guid>
+      <guid>https://matdz.github.io/log/emoji-favicons/</guid>
       <description>&lt;p&gt;Turns out &lt;a href=&#34;https://en.wikipedia.org/wiki/Scalable_Vector_Graphics&#34;&gt;SVG&lt;/a&gt; can draw images from text and is a valid favicon format &lt;a href=&#34;https://en.wikipedia.org/wiki/Favicon#File_format_support&#34;&gt;supported by most major browsers&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;heres-how-it-works&#34;&gt;Here&amp;rsquo;s how it works&lt;/h2&gt;&#xA;&lt;p&gt;Create a &lt;code&gt;favicon.svg&lt;/code&gt; file. There are a lot of opinions on what size(s) to make your favicon,&#xA;but modern browsers support a 32x32 icon so we&amp;rsquo;ll use that. Just set the &lt;code&gt;font-size&lt;/code&gt; to 32 and offset the &lt;code&gt;y&lt;/code&gt; axis by the same amount, so the icon is visible:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimizing Asset Delivery</title>
-      <link>https://len.to/log/optimizing_assets/</link>
+      <link>https://matdz.github.io/log/optimizing_assets/</link>
       <pubDate>Sat, 26 Dec 2020 20:47:24 -0700</pubDate>
-      <guid>https://len.to/log/optimizing_assets/</guid>
+      <guid>https://matdz.github.io/log/optimizing_assets/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve wanted to improve the CSS and JavaScript portions of this website for a&#xA;while. The main items I want to address are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Removing JavaScript from HTML templates&lt;/li&gt;&#xA;&lt;li&gt;Find a better way to inject site content into JavaScript&lt;/li&gt;&#xA;&lt;li&gt;Bundle all CSS into a single file&lt;/li&gt;&#xA;&lt;li&gt;Minify and fingerprint CSS and JavaScript&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I initially intended to plug various CSS and JavaScript processing tools into the&#xA;Docker build pipeline, but that quickly spiraled out of control when &lt;code&gt;npm&lt;/code&gt; got involved.&#xA;Then I discovered &lt;a href=&#34;https://gohugo.io/hugo-pipes/introduction/&#34;&gt;Hugo Pipes&lt;/a&gt;, which&#xA;solves these problems natively.&lt;/p&gt;</description>
     </item>
   </channel>
