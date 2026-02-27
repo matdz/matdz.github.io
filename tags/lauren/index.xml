@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lauren on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/lauren/</link>
+    <link>http://localhost:1313/tags/lauren/</link>
     <description>Recent content in Lauren on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Mar 2015 19:33:15 -0700</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/lauren/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/lauren/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DSCF0804</title>
-      <link>https://matdz.github.io/img/dscf0804/</link>
+      <link>http://localhost:1313/img/dscf0804/</link>
       <pubDate>Mon, 23 Mar 2015 19:33:15 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0804/</guid>
+      <guid>http://localhost:1313/img/dscf0804/</guid>
       <description></description>
     </item>
   </channel>

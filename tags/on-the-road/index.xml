@@ -2,87 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>On the Road on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/on-the-road/</link>
+    <link>http://localhost:1313/tags/on-the-road/</link>
     <description>Recent content in On the Road on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2019 10:16:14 -0700</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/on-the-road/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>IMG_0546</title>
-      <link>https://matdz.github.io/img/img_0546/</link>
-      <pubDate>Fri, 28 Jun 2019 10:16:14 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0546/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000374</title>
-      <link>https://matdz.github.io/img/l1000374/</link>
-      <pubDate>Tue, 05 Mar 2019 22:06:06 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000374/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000129</title>
-      <link>https://matdz.github.io/img/l1000129/</link>
-      <pubDate>Sat, 12 Jan 2019 10:15:33 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000129/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000130</title>
-      <link>https://matdz.github.io/img/l1000130/</link>
-      <pubDate>Sat, 12 Jan 2019 10:15:33 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000130/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180823_120952</title>
-      <link>https://matdz.github.io/img/img_20180823_120952/</link>
-      <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180823_120952/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 09 Jul 2018 23:10:18 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/on-the-road/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DSCF0196</title>
-      <link>https://matdz.github.io/img/dscf0196/</link>
+      <link>http://localhost:1313/img/dscf0196/</link>
       <pubDate>Mon, 09 Jul 2018 23:10:18 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0196/</guid>
+      <guid>http://localhost:1313/img/dscf0196/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0198</title>
-      <link>https://matdz.github.io/img/dscf0198/</link>
+      <link>http://localhost:1313/img/dscf0198/</link>
       <pubDate>Mon, 09 Jul 2018 23:10:18 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0198/</guid>
+      <guid>http://localhost:1313/img/dscf0198/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0207</title>
-      <link>https://matdz.github.io/img/dscf0207/</link>
+      <link>http://localhost:1313/img/dscf0207/</link>
       <pubDate>Sat, 07 Jul 2018 23:27:23 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0207/</guid>
+      <guid>http://localhost:1313/img/dscf0207/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0211</title>
-      <link>https://matdz.github.io/img/dscf0211/</link>
+      <link>http://localhost:1313/img/dscf0211/</link>
       <pubDate>Sat, 07 Jul 2018 23:27:23 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0211/</guid>
+      <guid>http://localhost:1313/img/dscf0211/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0043</title>
-      <link>https://matdz.github.io/img/dscf0043/</link>
+      <link>http://localhost:1313/img/dscf0043/</link>
       <pubDate>Sat, 30 Jun 2018 23:38:08 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0043/</guid>
+      <guid>http://localhost:1313/img/dscf0043/</guid>
       <description></description>
     </item>
     <item>
       <title>F1da8903</title>
-      <link>https://matdz.github.io/img/f1da8903/</link>
+      <link>http://localhost:1313/img/f1da8903/</link>
       <pubDate>Sat, 23 Sep 2017 19:12:35 -0800</pubDate>
-      <guid>https://matdz.github.io/img/f1da8903/</guid>
+      <guid>http://localhost:1313/img/f1da8903/</guid>
       <description></description>
     </item>
   </channel>

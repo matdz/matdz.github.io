@@ -2,66 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biking on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/biking/</link>
+    <link>http://localhost:1313/tags/biking/</link>
     <description>Recent content in Biking on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Dec 2019 20:11:40 -0800</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/biking/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>L1010365</title>
-      <link>https://matdz.github.io/img/l1010365/</link>
-      <pubDate>Sat, 14 Dec 2019 20:11:40 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010365/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_0531</title>
-      <link>https://matdz.github.io/img/img_0531/</link>
-      <pubDate>Fri, 28 Jun 2019 10:16:14 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0531/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_0534</title>
-      <link>https://matdz.github.io/img/img_0534/</link>
-      <pubDate>Fri, 28 Jun 2019 10:16:14 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0534/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_0282</title>
-      <link>https://matdz.github.io/img/img_0282/</link>
-      <pubDate>Sat, 18 May 2019 15:35:36 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0282/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_0300</title>
-      <link>https://matdz.github.io/img/img_0300/</link>
-      <pubDate>Sat, 18 May 2019 15:35:36 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0300/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20190303_092000</title>
-      <link>https://matdz.github.io/img/img_20190303_092000/</link>
-      <pubDate>Sat, 23 Mar 2019 14:54:01 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20190303_092000/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sat, 24 Nov 2018 19:12:24 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/biking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DSCF0695</title>
-      <link>https://matdz.github.io/img/dscf0695/</link>
+      <link>http://localhost:1313/img/dscf0695/</link>
       <pubDate>Sat, 24 Nov 2018 19:12:24 -0800</pubDate>
-      <guid>https://matdz.github.io/img/dscf0695/</guid>
+      <guid>http://localhost:1313/img/dscf0695/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0705</title>
-      <link>https://matdz.github.io/img/dscf0705/</link>
+      <link>http://localhost:1313/img/dscf0705/</link>
       <pubDate>Sat, 24 Nov 2018 19:12:24 -0800</pubDate>
-      <guid>https://matdz.github.io/img/dscf0705/</guid>
+      <guid>http://localhost:1313/img/dscf0705/</guid>
       <description></description>
     </item>
   </channel>

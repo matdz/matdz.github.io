@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B&amp;w on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/bw/</link>
+    <link>http://localhost:1313/tags/bw/</link>
     <description>Recent content in B&amp;w on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jun 2020 13:53:11 -0700</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/bw/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bw/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L1000418</title>
-      <link>https://matdz.github.io/img/l1000418/</link>
+      <link>http://localhost:1313/img/l1000418/</link>
       <pubDate>Fri, 05 Jun 2020 13:53:11 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1000418/</guid>
+      <guid>http://localhost:1313/img/l1000418/</guid>
       <description></description>
     </item>
     <item>
       <title>L1000087</title>
-      <link>https://matdz.github.io/img/l1000087/</link>
+      <link>http://localhost:1313/img/l1000087/</link>
       <pubDate>Sun, 01 Mar 2020 14:30:18 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000087/</guid>
+      <guid>http://localhost:1313/img/l1000087/</guid>
       <description></description>
     </item>
     <item>
       <title>L1000104</title>
-      <link>https://matdz.github.io/img/l1000104/</link>
+      <link>http://localhost:1313/img/l1000104/</link>
       <pubDate>Sun, 01 Mar 2020 14:30:18 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000104/</guid>
+      <guid>http://localhost:1313/img/l1000104/</guid>
       <description></description>
     </item>
     <item>
       <title>L1000062</title>
-      <link>https://matdz.github.io/img/l1000062/</link>
+      <link>http://localhost:1313/img/l1000062/</link>
       <pubDate>Fri, 28 Feb 2020 16:30:23 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000062/</guid>
+      <guid>http://localhost:1313/img/l1000062/</guid>
       <description></description>
     </item>
     <item>
       <title>L1000064</title>
-      <link>https://matdz.github.io/img/l1000064/</link>
+      <link>http://localhost:1313/img/l1000064/</link>
       <pubDate>Fri, 28 Feb 2020 16:30:23 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000064/</guid>
+      <guid>http://localhost:1313/img/l1000064/</guid>
       <description></description>
     </item>
     <item>
       <title>L1000067</title>
-      <link>https://matdz.github.io/img/l1000067/</link>
+      <link>http://localhost:1313/img/l1000067/</link>
       <pubDate>Fri, 28 Feb 2020 16:30:23 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000067/</guid>
+      <guid>http://localhost:1313/img/l1000067/</guid>
       <description></description>
     </item>
     <item>
       <title>L1000070</title>
-      <link>https://matdz.github.io/img/l1000070/</link>
+      <link>http://localhost:1313/img/l1000070/</link>
       <pubDate>Fri, 28 Feb 2020 16:30:23 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000070/</guid>
+      <guid>http://localhost:1313/img/l1000070/</guid>
       <description></description>
     </item>
     <item>
       <title>L1010419</title>
-      <link>https://matdz.github.io/img/l1010419/</link>
+      <link>http://localhost:1313/img/l1010419/</link>
       <pubDate>Tue, 31 Dec 2019 08:10:16 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010419/</guid>
+      <guid>http://localhost:1313/img/l1010419/</guid>
       <description></description>
     </item>
     <item>
       <title>L1010425</title>
-      <link>https://matdz.github.io/img/l1010425/</link>
+      <link>http://localhost:1313/img/l1010425/</link>
       <pubDate>Tue, 31 Dec 2019 08:10:16 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010425/</guid>
+      <guid>http://localhost:1313/img/l1010425/</guid>
       <description></description>
     </item>
     <item>
       <title>IMG_20180128_142911-01</title>
-      <link>https://matdz.github.io/img/img_20180128_142911-01/</link>
+      <link>http://localhost:1313/img/img_20180128_142911-01/</link>
       <pubDate>Sun, 28 Jan 2018 11:49:46 -0800</pubDate>
-      <guid>https://matdz.github.io/img/img_20180128_142911-01/</guid>
+      <guid>http://localhost:1313/img/img_20180128_142911-01/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,52 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Self Portrait on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/self-portrait/</link>
+    <link>http://localhost:1313/tags/self-portrait/</link>
     <description>Recent content in Self Portrait on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Dec 2019 20:11:40 -0800</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/self-portrait/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>L1010365</title>
-      <link>https://matdz.github.io/img/l1010365/</link>
-      <pubDate>Sat, 14 Dec 2019 20:11:40 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010365/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_0705</title>
-      <link>https://matdz.github.io/img/img_0705/</link>
-      <pubDate>Tue, 23 Jul 2019 11:21:28 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0705/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_0282</title>
-      <link>https://matdz.github.io/img/img_0282/</link>
-      <pubDate>Sat, 18 May 2019 15:35:36 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0282/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/self-portrait/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>f31bdbe2</title>
-      <link>https://matdz.github.io/img/f31bdbe2/</link>
+      <link>http://localhost:1313/img/f31bdbe2/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://matdz.github.io/img/f31bdbe2/</guid>
+      <guid>http://localhost:1313/img/f31bdbe2/</guid>
       <description></description>
     </item>
     <item>
       <title>00d98aa5</title>
-      <link>https://matdz.github.io/img/00d98aa5/</link>
+      <link>http://localhost:1313/img/00d98aa5/</link>
       <pubDate>Sat, 21 Jul 2018 22:49:07 -0800</pubDate>
-      <guid>https://matdz.github.io/img/00d98aa5/</guid>
+      <guid>http://localhost:1313/img/00d98aa5/</guid>
       <description></description>
     </item>
     <item>
       <title>honnold</title>
-      <link>https://matdz.github.io/img/honnold/</link>
+      <link>http://localhost:1313/img/honnold/</link>
       <pubDate>Thu, 01 Mar 2018 18:32:41 -0700</pubDate>
-      <guid>https://matdz.github.io/img/honnold/</guid>
+      <guid>http://localhost:1313/img/honnold/</guid>
       <description></description>
     </item>
   </channel>

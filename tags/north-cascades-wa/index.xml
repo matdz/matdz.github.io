@@ -2,59 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>North Cascades, WA on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/north-cascades-wa/</link>
+    <link>http://localhost:1313/tags/north-cascades-wa/</link>
     <description>Recent content in North Cascades, WA on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jul 2019 22:58:22 -0700</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/north-cascades-wa/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>L1010151_02</title>
-      <link>https://matdz.github.io/img/l1010151_02/</link>
-      <pubDate>Tue, 30 Jul 2019 22:58:22 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1010151_02/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_0694</title>
-      <link>https://matdz.github.io/img/img_0694/</link>
-      <pubDate>Tue, 23 Jul 2019 11:21:28 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0694/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_0705</title>
-      <link>https://matdz.github.io/img/img_0705/</link>
-      <pubDate>Tue, 23 Jul 2019 11:21:28 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0705/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180908_080416_1-01</title>
-      <link>https://matdz.github.io/img/img_20180908_080416_1-01/</link>
-      <pubDate>Sat, 06 Oct 2018 18:25:05 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180908_080416_1-01/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 03 Sep 2018 23:01:20 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/north-cascades-wa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DSCF0375</title>
-      <link>https://matdz.github.io/img/dscf0375/</link>
+      <link>http://localhost:1313/img/dscf0375/</link>
       <pubDate>Mon, 03 Sep 2018 23:01:20 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0375/</guid>
+      <guid>http://localhost:1313/img/dscf0375/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0379</title>
-      <link>https://matdz.github.io/img/dscf0379/</link>
+      <link>http://localhost:1313/img/dscf0379/</link>
       <pubDate>Mon, 03 Sep 2018 23:01:20 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0379/</guid>
+      <guid>http://localhost:1313/img/dscf0379/</guid>
       <description></description>
     </item>
     <item>
       <title>0d6f587d</title>
-      <link>https://matdz.github.io/img/0d6f587d/</link>
+      <link>http://localhost:1313/img/0d6f587d/</link>
       <pubDate>Mon, 03 Sep 2018 18:42:21 -0800</pubDate>
-      <guid>https://matdz.github.io/img/0d6f587d/</guid>
+      <guid>http://localhost:1313/img/0d6f587d/</guid>
       <description></description>
     </item>
   </channel>

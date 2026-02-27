@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Surfing on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/surfing/</link>
+    <link>http://localhost:1313/tags/surfing/</link>
     <description>Recent content in Surfing on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Jun 2019 12:08:31 -0700</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/surfing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/surfing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L1010095</title>
-      <link>https://matdz.github.io/img/l1010095/</link>
+      <link>http://localhost:1313/img/l1010095/</link>
       <pubDate>Sat, 22 Jun 2019 12:08:31 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1010095/</guid>
+      <guid>http://localhost:1313/img/l1010095/</guid>
       <description></description>
     </item>
     <item>
       <title>L1010098</title>
-      <link>https://matdz.github.io/img/l1010098/</link>
+      <link>http://localhost:1313/img/l1010098/</link>
       <pubDate>Sat, 22 Jun 2019 12:08:31 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1010098/</guid>
+      <guid>http://localhost:1313/img/l1010098/</guid>
       <description></description>
     </item>
   </channel>

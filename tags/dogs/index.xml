@@ -2,164 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dogs on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/dogs/</link>
+    <link>http://localhost:1313/tags/dogs/</link>
     <description>Recent content in Dogs on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2020 13:13:44 -0700</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/dogs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>L1000438</title>
-      <link>https://matdz.github.io/img/l1000438/</link>
-      <pubDate>Sun, 07 Jun 2020 13:13:44 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1000438/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000196</title>
-      <link>https://matdz.github.io/img/l1000196/</link>
-      <pubDate>Sun, 08 Mar 2020 21:06:36 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1000196/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000109</title>
-      <link>https://matdz.github.io/img/l1000109/</link>
-      <pubDate>Sun, 01 Mar 2020 14:26:56 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000109/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1010332</title>
-      <link>https://matdz.github.io/img/l1010332/</link>
-      <pubDate>Sun, 08 Dec 2019 19:50:47 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010332/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000586</title>
-      <link>https://matdz.github.io/img/l1000586/</link>
-      <pubDate>Sun, 07 Apr 2019 12:52:08 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1000586/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000432</title>
-      <link>https://matdz.github.io/img/l1000432/</link>
-      <pubDate>Sat, 30 Mar 2019 09:55:02 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1000432/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000433</title>
-      <link>https://matdz.github.io/img/l1000433/</link>
-      <pubDate>Sat, 30 Mar 2019 09:55:02 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1000433/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000368</title>
-      <link>https://matdz.github.io/img/l1000368/</link>
-      <pubDate>Thu, 28 Feb 2019 22:10:42 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000368/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000121</title>
-      <link>https://matdz.github.io/img/l1000121/</link>
-      <pubDate>Sun, 06 Jan 2019 10:11:50 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000121/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sat, 24 Nov 2018 19:12:24 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DSCF0705</title>
-      <link>https://matdz.github.io/img/dscf0705/</link>
+      <link>http://localhost:1313/img/dscf0705/</link>
       <pubDate>Sat, 24 Nov 2018 19:12:24 -0800</pubDate>
-      <guid>https://matdz.github.io/img/dscf0705/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180923_172733</title>
-      <link>https://matdz.github.io/img/img_20180923_172733/</link>
-      <pubDate>Wed, 26 Sep 2018 20:25:45 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180923_172733/</guid>
+      <guid>http://localhost:1313/img/dscf0705/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0491</title>
-      <link>https://matdz.github.io/img/dscf0491/</link>
+      <link>http://localhost:1313/img/dscf0491/</link>
       <pubDate>Sun, 16 Sep 2018 19:18:25 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0491/</guid>
+      <guid>http://localhost:1313/img/dscf0491/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0514</title>
-      <link>https://matdz.github.io/img/dscf0514/</link>
+      <link>http://localhost:1313/img/dscf0514/</link>
       <pubDate>Sun, 16 Sep 2018 19:18:25 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0514/</guid>
+      <guid>http://localhost:1313/img/dscf0514/</guid>
       <description></description>
     </item>
     <item>
       <title>Feb3053c</title>
-      <link>https://matdz.github.io/img/feb3053c/</link>
+      <link>http://localhost:1313/img/feb3053c/</link>
       <pubDate>Sat, 15 Sep 2018 18:47:34 -0800</pubDate>
-      <guid>https://matdz.github.io/img/feb3053c/</guid>
+      <guid>http://localhost:1313/img/feb3053c/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0379</title>
-      <link>https://matdz.github.io/img/dscf0379/</link>
+      <link>http://localhost:1313/img/dscf0379/</link>
       <pubDate>Mon, 03 Sep 2018 23:01:20 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0379/</guid>
+      <guid>http://localhost:1313/img/dscf0379/</guid>
       <description></description>
     </item>
     <item>
       <title>0d6f587d</title>
-      <link>https://matdz.github.io/img/0d6f587d/</link>
+      <link>http://localhost:1313/img/0d6f587d/</link>
       <pubDate>Mon, 03 Sep 2018 18:42:21 -0800</pubDate>
-      <guid>https://matdz.github.io/img/0d6f587d/</guid>
+      <guid>http://localhost:1313/img/0d6f587d/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0362</title>
-      <link>https://matdz.github.io/img/dscf0362/</link>
+      <link>http://localhost:1313/img/dscf0362/</link>
       <pubDate>Sun, 02 Sep 2018 23:17:31 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0362/</guid>
+      <guid>http://localhost:1313/img/dscf0362/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0287</title>
-      <link>https://matdz.github.io/img/dscf0287/</link>
+      <link>http://localhost:1313/img/dscf0287/</link>
       <pubDate>Sun, 22 Jul 2018 19:47:29 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0287/</guid>
+      <guid>http://localhost:1313/img/dscf0287/</guid>
       <description></description>
     </item>
     <item>
       <title>Fe780a90</title>
-      <link>https://matdz.github.io/img/fe780a90/</link>
+      <link>http://localhost:1313/img/fe780a90/</link>
       <pubDate>Fri, 20 Jul 2018 22:44:59 -0800</pubDate>
-      <guid>https://matdz.github.io/img/fe780a90/</guid>
+      <guid>http://localhost:1313/img/fe780a90/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0196</title>
-      <link>https://matdz.github.io/img/dscf0196/</link>
+      <link>http://localhost:1313/img/dscf0196/</link>
       <pubDate>Mon, 09 Jul 2018 23:10:18 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0196/</guid>
+      <guid>http://localhost:1313/img/dscf0196/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0198</title>
-      <link>https://matdz.github.io/img/dscf0198/</link>
+      <link>http://localhost:1313/img/dscf0198/</link>
       <pubDate>Mon, 09 Jul 2018 23:10:18 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0198/</guid>
+      <guid>http://localhost:1313/img/dscf0198/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0005</title>
-      <link>https://matdz.github.io/img/dscf0005/</link>
+      <link>http://localhost:1313/img/dscf0005/</link>
       <pubDate>Sat, 30 Jun 2018 23:38:08 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0005/</guid>
+      <guid>http://localhost:1313/img/dscf0005/</guid>
       <description></description>
     </item>
   </channel>

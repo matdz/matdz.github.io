@@ -2,59 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mt. Baker, WA on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/mt.-baker-wa/</link>
+    <link>http://localhost:1313/tags/mt.-baker-wa/</link>
     <description>Recent content in Mt. Baker, WA on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2020 16:04:58 -0800</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/mt.-baker-wa/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>IMG_2395</title>
-      <link>https://matdz.github.io/img/img_2395/</link>
-      <pubDate>Sat, 15 Feb 2020 16:04:58 -0800</pubDate>
-      <guid>https://matdz.github.io/img/img_2395/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_2396</title>
-      <link>https://matdz.github.io/img/img_2396/</link>
-      <pubDate>Sat, 15 Feb 2020 16:04:58 -0800</pubDate>
-      <guid>https://matdz.github.io/img/img_2396/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1010456</title>
-      <link>https://matdz.github.io/img/l1010456/</link>
-      <pubDate>Fri, 14 Feb 2020 16:00:02 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010456/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1010460</title>
-      <link>https://matdz.github.io/img/l1010460/</link>
-      <pubDate>Fri, 14 Feb 2020 16:00:02 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010460/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1010461</title>
-      <link>https://matdz.github.io/img/l1010461/</link>
-      <pubDate>Fri, 14 Feb 2020 16:00:02 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010461/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mt.-baker-wa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0a5a9cfb</title>
-      <link>https://matdz.github.io/img/0a5a9cfb/</link>
+      <link>http://localhost:1313/img/0a5a9cfb/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://matdz.github.io/img/0a5a9cfb/</guid>
+      <guid>http://localhost:1313/img/0a5a9cfb/</guid>
       <description></description>
     </item>
     <item>
       <title>fae53203</title>
-      <link>https://matdz.github.io/img/fae53203/</link>
+      <link>http://localhost:1313/img/fae53203/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://matdz.github.io/img/fae53203/</guid>
+      <guid>http://localhost:1313/img/fae53203/</guid>
       <description></description>
     </item>
   </channel>

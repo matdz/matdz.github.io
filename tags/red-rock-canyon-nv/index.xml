@@ -2,94 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Red Rock Canyon, NV on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/red-rock-canyon-nv/</link>
+    <link>http://localhost:1313/tags/red-rock-canyon-nv/</link>
     <description>Recent content in Red Rock Canyon, NV on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Apr 2019 22:49:21 -0700</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/red-rock-canyon-nv/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>mount-wilson</title>
-      <link>https://matdz.github.io/img/mount-wilson/</link>
-      <pubDate>Tue, 23 Apr 2019 22:49:21 -0700</pubDate>
-      <guid>https://matdz.github.io/img/mount-wilson/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20190422_115322</title>
-      <link>https://matdz.github.io/img/img_20190422_115322/</link>
-      <pubDate>Mon, 22 Apr 2019 10:55:33 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20190422_115322/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20190422_164313</title>
-      <link>https://matdz.github.io/img/img_20190422_164313/</link>
-      <pubDate>Mon, 22 Apr 2019 10:55:33 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20190422_164313/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20190422_174802</title>
-      <link>https://matdz.github.io/img/img_20190422_174802/</link>
-      <pubDate>Mon, 22 Apr 2019 10:55:33 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20190422_174802/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20190422_191922</title>
-      <link>https://matdz.github.io/img/img_20190422_191922/</link>
-      <pubDate>Mon, 22 Apr 2019 10:55:33 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20190422_191922/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20190422_214515</title>
-      <link>https://matdz.github.io/img/img_20190422_214515/</link>
-      <pubDate>Mon, 22 Apr 2019 10:55:33 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20190422_214515/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000873</title>
-      <link>https://matdz.github.io/img/l1000873/</link>
-      <pubDate>Sun, 21 Apr 2019 22:27:57 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1000873/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000877</title>
-      <link>https://matdz.github.io/img/l1000877/</link>
-      <pubDate>Sun, 21 Apr 2019 22:27:57 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1000877/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Thu, 01 Mar 2018 18:32:41 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/red-rock-canyon-nv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>honnold</title>
-      <link>https://matdz.github.io/img/honnold/</link>
+      <link>http://localhost:1313/img/honnold/</link>
       <pubDate>Thu, 01 Mar 2018 18:32:41 -0700</pubDate>
-      <guid>https://matdz.github.io/img/honnold/</guid>
+      <guid>http://localhost:1313/img/honnold/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF7106</title>
-      <link>https://matdz.github.io/img/dscf7106/</link>
+      <link>http://localhost:1313/img/dscf7106/</link>
       <pubDate>Sun, 07 May 2017 16:24:23 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf7106/</guid>
+      <guid>http://localhost:1313/img/dscf7106/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF7113</title>
-      <link>https://matdz.github.io/img/dscf7113/</link>
+      <link>http://localhost:1313/img/dscf7113/</link>
       <pubDate>Sun, 07 May 2017 16:24:23 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf7113/</guid>
+      <guid>http://localhost:1313/img/dscf7113/</guid>
       <description></description>
     </item>
     <item>
       <title>F3b27a81</title>
-      <link>https://matdz.github.io/img/f3b27a81/</link>
+      <link>http://localhost:1313/img/f3b27a81/</link>
       <pubDate>Wed, 03 May 2017 20:56:26 -0800</pubDate>
-      <guid>https://matdz.github.io/img/f3b27a81/</guid>
+      <guid>http://localhost:1313/img/f3b27a81/</guid>
       <description></description>
     </item>
   </channel>

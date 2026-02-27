@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vantage, WA on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/vantage-wa/</link>
+    <link>http://localhost:1313/tags/vantage-wa/</link>
     <description>Recent content in Vantage, WA on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Apr 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/vantage-wa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vantage-wa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>fc332f06</title>
-      <link>https://matdz.github.io/img/fc332f06/</link>
+      <link>http://localhost:1313/img/fc332f06/</link>
       <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://matdz.github.io/img/fc332f06/</guid>
+      <guid>http://localhost:1313/img/fc332f06/</guid>
       <description></description>
     </item>
   </channel>

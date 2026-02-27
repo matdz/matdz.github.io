@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 
 <html>
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
 <title>Matteo takes Photos</title>
 
@@ -16,7 +16,10 @@
 
 
 
-<link rel="stylesheet" href="/css/bundle.min.727f98b51c4e5d64dc4851a4eb242a4b5c807c494a437f85cff60336b579849d.css" integrity="sha256-cn&#43;YtRxOXWTcSFGk6yQqS1yAfElKQ3&#43;Fz/YDNrV5hJ0=">
+<link rel="stylesheet" href="/css/bundle.min.70977755595fc947e4491e9f9fb96c815aaeeba065f40a13a29c445c123db788.css" integrity="sha256-cJd3VVlfyUfkSR6fn7lsgVqu66Bl9AoTopxEXBI9t4g=">
+
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@1.15.2/dist/maplibre-gl.css">
+<script src="https://unpkg.com/maplibre-gl@1.15.2/dist/maplibre-gl.js"></script>
 
   </head>
   <body>
@@ -35,6 +38,7 @@
 <ul>
   <li><a href="/about">about</a></li>
   <li><a href="/tags">tags</a></li>
+  <li><a href="/map">map</a></li>
 </ul>
 </noscript>
 
@@ -42,143 +46,115 @@
   <li><a href="/about">about</a></li>
   <li><a href="/random">random</a></li>
   <li><a href="/tags">tags</a></li>
-  <li><a href="/map">map</a></li>
+  <li><a href="/map/?c=23.5,16.5&z=1">map</a></li>
 </ul>
 
           
 <ul class="desktop-tag-list hidden">
   
-    <li><a href="/tags/landscapes/">landscapes</a> (39)</li>
+    <li><a href="/tags/untagged/">untagged</a> (49)</li>
   
-    <li><a href="/tags/trees/">trees</a> (30)</li>
+    <li><a href="/tags/landscapes/">landscapes</a> (15)</li>
   
-    <li><a href="/tags/climbing/">climbing</a> (27)</li>
+    <li><a href="/tags/kenai/">kenai</a> (12)</li>
   
-    <li><a href="/tags/olympic-peninsula-wa/">olympic peninsula, wa</a> (23)</li>
+    <li><a href="/tags/dogs/">dogs</a> (12)</li>
   
-    <li><a href="/tags/dogs/">dogs</a> (22)</li>
+    <li><a href="/tags/trees/">trees</a> (11)</li>
   
-    <li><a href="/tags/kenai/">kenai</a> (22)</li>
+    <li><a href="/tags/olympic-peninsula-wa/">olympic peninsula, wa</a> (11)</li>
   
-    <li><a href="/tags/portraits/">portraits</a> (18)</li>
+    <li><a href="/tags/seattle-wa/">seattle, wa</a> (9)</li>
   
-    <li><a href="/tags/hiking/">hiking</a> (16)</li>
+    <li><a href="/tags/portraits/">portraits</a> (7)</li>
   
-    <li><a href="/tags/grand-teton-natl-park-wyoming/">grand teton nat&#39;l park, wyoming</a> (12)</li>
+    <li><a href="/tags/climbing/">climbing</a> (6)</li>
   
-    <li><a href="/tags/bremerton-wa/">bremerton, wa</a> (12)</li>
-  
-    <li><a href="/tags/red-rock-canyon-nv/">red rock canyon, nv</a> (12)</li>
-  
-    <li><a href="/tags/port-gamble-wa/">port gamble, wa</a> (11)</li>
-  
-    <li><a href="/tags/seattle-wa/">seattle, wa</a> (11)</li>
-  
-    <li><a href="/tags/on-the-road/">on the road</a> (11)</li>
-  
-    <li><a href="/tags/bw/">b&amp;w</a> (10)</li>
-  
-    <li><a href="/tags/kyl/">kyl</a> (10)</li>
-  
-    <li><a href="/tags/cars/">cars</a> (9)</li>
-  
-    <li><a href="/tags/untagged/">untagged</a> (8)</li>
-  
-    <li><a href="/tags/biking/">biking</a> (8)</li>
-  
-    <li><a href="/tags/north-cascades-wa/">north cascades, wa</a> (7)</li>
-  
-    <li><a href="/tags/camping/">camping</a> (7)</li>
-  
-    <li><a href="/tags/mt.-baker-wa/">mt. baker, wa</a> (7)</li>
+    <li><a href="/tags/on-the-road/">on the road</a> (6)</li>
   
     <li><a href="/tags/cle-elum-wa/">cle elum, wa</a> (6)</li>
   
-    <li><a href="/tags/self-portrait/">self portrait</a> (6)</li>
+    <li><a href="/tags/cars/">cars</a> (5)</li>
   
-    <li><a href="/tags/mazama-wa/">mazama, wa</a> (6)</li>
+    <li><a href="/tags/camping/">camping</a> (5)</li>
   
-    <li><a href="/tags/neah-bay-wa/">neah bay, wa</a> (5)</li>
+    <li><a href="/tags/hiking/">hiking</a> (4)</li>
   
-    <li><a href="/tags/leavenworth-wa/">leavenworth, wa</a> (5)</li>
-  
-    <li><a href="/tags/julian/">julian</a> (5)</li>
-  
-    <li><a href="/tags/snowboarding/">snowboarding</a> (5)</li>
-  
-    <li><a href="/tags/olives/">olives</a> (4)</li>
-  
-    <li><a href="/tags/shay/">shay</a> (4)</li>
-  
-    <li><a href="/tags/fish/">fish</a> (4)</li>
-  
-    <li><a href="/tags/cave-junction-or/">cave junction, or</a> (3)</li>
-  
-    <li><a href="/tags/mt.-rainier-wa/">mt. rainier, wa</a> (3)</li>
+    <li><a href="/tags/red-rock-canyon-nv/">red rock canyon, nv</a> (4)</li>
   
     <li><a href="/tags/montana/">montana</a> (3)</li>
   
-    <li><a href="/tags/sunrises/">sunrises</a> (2)</li>
+    <li><a href="/tags/self-portrait/">self portrait</a> (3)</li>
   
-    <li><a href="/tags/boise-id/">boise, id</a> (2)</li>
-  
-    <li><a href="/tags/victoria-bc/">victoria, bc</a> (2)</li>
-  
-    <li><a href="/tags/colorado/">colorado</a> (2)</li>
-  
-    <li><a href="/tags/sunsets/">sunsets</a> (2)</li>
+    <li><a href="/tags/north-cascades-wa/">north cascades, wa</a> (3)</li>
   
     <li><a href="/tags/jacob/">jacob</a> (2)</li>
   
-    <li><a href="/tags/orcas-island-wa/">orcas island, wa</a> (2)</li>
+    <li><a href="/tags/olives/">olives</a> (2)</li>
   
-    <li><a href="/tags/josh/">josh</a> (2)</li>
+    <li><a href="/tags/colorado/">colorado</a> (2)</li>
   
-    <li><a href="/tags/bishop-ca/">bishop, ca</a> (2)</li>
+    <li><a href="/tags/leavenworth-wa/">leavenworth, wa</a> (2)</li>
   
-    <li><a href="/tags/surfing/">surfing</a> (2)</li>
+    <li><a href="/tags/cave-junction-or/">cave junction, or</a> (2)</li>
+  
+    <li><a href="/tags/mt.-baker-wa/">mt. baker, wa</a> (2)</li>
   
     <li><a href="/tags/northbend-wa/">northbend, wa</a> (2)</li>
   
-    <li><a href="/tags/ocean/">ocean</a> (2)</li>
+    <li><a href="/tags/sunsets/">sunsets</a> (2)</li>
   
-    <li><a href="/tags/alberta-bc/">alberta, bc</a> (1)</li>
+    <li><a href="/tags/josh/">josh</a> (2)</li>
   
-    <li><a href="/tags/tasha/">tasha</a> (1)</li>
+    <li><a href="/tags/mt.-rainier-wa/">mt. rainier, wa</a> (2)</li>
   
-    <li><a href="/tags/utah/">utah</a> (1)</li>
+    <li><a href="/tags/biking/">biking</a> (2)</li>
   
-    <li><a href="/tags/alex/">alex</a> (1)</li>
-  
-    <li><a href="/tags/wildlife/">wildlife</a> (1)</li>
-  
-    <li><a href="/tags/dad/">dad</a> (1)</li>
-  
-    <li><a href="/tags/wyoming/">wyoming</a> (1)</li>
-  
-    <li><a href="/tags/signs/">signs</a> (1)</li>
-  
-    <li><a href="/tags/water/">water</a> (1)</li>
-  
-    <li><a href="/tags/san-francisco-ca/">san francisco, ca</a> (1)</li>
-  
-    <li><a href="/tags/aaron/">aaron</a> (1)</li>
-  
-    <li><a href="/tags/james/">james</a> (1)</li>
-  
-    <li><a href="/tags/lauren/">lauren</a> (1)</li>
-  
-    <li><a href="/tags/lake-wenatchee-wa/">lake wenatchee, wa</a> (1)</li>
+    <li><a href="/tags/boise-id/">boise, id</a> (2)</li>
   
     <li><a href="/tags/vantage-wa/">vantage, wa</a> (1)</li>
   
-    <li><a href="/tags/daniel/">daniel</a> (1)</li>
+    <li><a href="/tags/water/">water</a> (1)</li>
+  
+    <li><a href="/tags/grand-teton-natl-park-wyoming/">grand teton nat&#39;l park, wyoming</a> (1)</li>
+  
+    <li><a href="/tags/lake-wenatchee-wa/">lake wenatchee, wa</a> (1)</li>
+  
+    <li><a href="/tags/port-gamble-wa/">port gamble, wa</a> (1)</li>
+  
+    <li><a href="/tags/ocean/">ocean</a> (1)</li>
+  
+    <li><a href="/tags/san-francisco-ca/">san francisco, ca</a> (1)</li>
+  
+    <li><a href="/tags/signs/">signs</a> (1)</li>
+  
+    <li><a href="/tags/snow/">snow</a> (1)</li>
+  
+    <li><a href="/tags/utah/">utah</a> (1)</li>
+  
+    <li><a href="/tags/wyoming/">wyoming</a> (1)</li>
   
     <li><a href="/tags/35mm/">35mm</a> (1)</li>
   
+    <li><a href="/tags/neah-bay-wa/">neah bay, wa</a> (1)</li>
+  
+    <li><a href="/tags/bremerton-wa/">bremerton, wa</a> (1)</li>
+  
+    <li><a href="/tags/lauren/">lauren</a> (1)</li>
+  
+    <li><a href="/tags/shay/">shay</a> (1)</li>
+  
+    <li><a href="/tags/wildlife/">wildlife</a> (1)</li>
+  
+    <li><a href="/tags/alberta-bc/">alberta, bc</a> (1)</li>
+  
+    <li><a href="/tags/james/">james</a> (1)</li>
+  
     <li><a href="/tags/miami-beach-fl/">miami beach, fl</a> (1)</li>
   
-    <li><a href="/tags/snow/">snow</a> (1)</li>
+    <li><a href="/tags/alex/">alex</a> (1)</li>
+  
+    <li><a href="/tags/julian/">julian</a> (1)</li>
   
 </ul>
 
@@ -187,67 +163,11 @@
           <div class="gallery">
             
               
-<a href="/img/l1000087/"><img src="https://d17enza3bfujl8.cloudfront.net/L1000087.jpg" alt="Port Gamble, WA, trees, b&amp;w"></a>
-
-            
-              
-<a href="/img/l1000104/"><img src="https://d17enza3bfujl8.cloudfront.net/L1000104.jpg" alt="Port Gamble, WA, trees, b&amp;w"></a>
-
-            
-              
-<a href="/img/l1000109/"><img src="https://d17enza3bfujl8.cloudfront.net/L1000109.jpg" alt="Port Gamble, WA, Kenai, dogs"></a>
-
-            
-              
-<a href="/img/l1010365/"><img src="https://d17enza3bfujl8.cloudfront.net/L1010365.jpg" alt="Port Gamble, WA, biking, self portrait"></a>
-
-            
-              
-<a href="/img/l1010370/"><img src="https://d17enza3bfujl8.cloudfront.net/L1010370.jpg" alt="Port Gamble, WA, landscapes, trees"></a>
-
-            
-              
-<a href="/img/img_20190303_092000/"><img src="https://d17enza3bfujl8.cloudfront.net/IMG_20190303_092000.jpg" alt="Port Gamble, WA, biking"></a>
-
-            
-              
-<a href="/img/l1000368/"><img src="https://d17enza3bfujl8.cloudfront.net/L1000368.jpg" alt="Port Gamble, WA, Kenai, dogs"></a>
-
-            
-              
-<a href="/img/l1000281/"><img src="https://d17enza3bfujl8.cloudfront.net/L1000281.jpg" alt="Port Gamble, WA, hiking, trees, landscapes"></a>
-
-            
-              
-<a href="/img/l1000325/"><img src="https://d17enza3bfujl8.cloudfront.net/L1000325.jpg" alt="Port Gamble, WA, trees, landscapes, hiking"></a>
-
-            
-              
 <a href="/img/f31bdbe2/"><img src="https://d17enza3bfujl8.cloudfront.net/f31bdbe2.jpg" alt="Port Gamble, WA, self portrait"></a>
 
             
           </div>
           
-    <ul class="pagination pagination-default">
-      <li class="page-item disabled">
-        <a aria-disabled="true" aria-label="First" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;&laquo;</span></a>
-      </li>
-      <li class="page-item disabled">
-        <a aria-disabled="true" aria-label="Previous" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;</span></a>
-      </li>
-      <li class="page-item active">
-        <a aria-current="page" aria-label="Page 1" class="page-link" role="button">1</a>
-      </li>
-      <li class="page-item">
-        <a href="/tags/port-gamble-wa/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
-      </li>
-      <li class="page-item">
-        <a href="/tags/port-gamble-wa/page/2/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
-      </li>
-      <li class="page-item">
-        <a href="/tags/port-gamble-wa/page/2/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
-      </li>
-    </ul>
         </div>
       </div>
     </div>
@@ -358,37 +278,9 @@
 
    
 
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
-
-   
 
 
-
-<script src="/js/index.min.ccf55118f1162d9954a44ee6d5cb2b9bfde45b18acdfe3b3b40e8570128ae4f1.js" defer></script>
+<script src="/js/index.min.e915bdf43cf744cfec5b782436a71b2fd6763907ee0e2c9cb44386b95161facd.js" defer></script>
 
   </body>
 </html>

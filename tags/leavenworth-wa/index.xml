@@ -2,45 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leavenworth, WA on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/leavenworth-wa/</link>
+    <link>http://localhost:1313/tags/leavenworth-wa/</link>
     <description>Recent content in Leavenworth, WA on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/leavenworth-wa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/leavenworth-wa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>fd58e116</title>
-      <link>https://matdz.github.io/img/fd58e116/</link>
+      <link>http://localhost:1313/img/fd58e116/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://matdz.github.io/img/fd58e116/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_0531</title>
-      <link>https://matdz.github.io/img/img_0531/</link>
-      <pubDate>Fri, 28 Jun 2019 10:16:14 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0531/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_0534</title>
-      <link>https://matdz.github.io/img/img_0534/</link>
-      <pubDate>Fri, 28 Jun 2019 10:16:14 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0534/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_0546</title>
-      <link>https://matdz.github.io/img/img_0546/</link>
-      <pubDate>Fri, 28 Jun 2019 10:16:14 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0546/</guid>
+      <guid>http://localhost:1313/img/fd58e116/</guid>
       <description></description>
     </item>
     <item>
       <title>f64f2a5c</title>
-      <link>https://matdz.github.io/img/f64f2a5c/</link>
+      <link>http://localhost:1313/img/f64f2a5c/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://matdz.github.io/img/f64f2a5c/</guid>
+      <guid>http://localhost:1313/img/f64f2a5c/</guid>
       <description></description>
     </item>
   </channel>

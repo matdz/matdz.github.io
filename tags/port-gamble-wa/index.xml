@@ -2,87 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Port Gamble, WA on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/port-gamble-wa/</link>
+    <link>http://localhost:1313/tags/port-gamble-wa/</link>
     <description>Recent content in Port Gamble, WA on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2020 14:30:18 -0800</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/port-gamble-wa/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>L1000087</title>
-      <link>https://matdz.github.io/img/l1000087/</link>
-      <pubDate>Sun, 01 Mar 2020 14:30:18 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000087/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000104</title>
-      <link>https://matdz.github.io/img/l1000104/</link>
-      <pubDate>Sun, 01 Mar 2020 14:30:18 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000104/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000109</title>
-      <link>https://matdz.github.io/img/l1000109/</link>
-      <pubDate>Sun, 01 Mar 2020 14:26:56 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000109/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1010365</title>
-      <link>https://matdz.github.io/img/l1010365/</link>
-      <pubDate>Sat, 14 Dec 2019 20:11:40 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010365/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1010370</title>
-      <link>https://matdz.github.io/img/l1010370/</link>
-      <pubDate>Sat, 14 Dec 2019 20:11:40 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010370/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20190303_092000</title>
-      <link>https://matdz.github.io/img/img_20190303_092000/</link>
-      <pubDate>Sat, 23 Mar 2019 14:54:01 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20190303_092000/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000368</title>
-      <link>https://matdz.github.io/img/l1000368/</link>
-      <pubDate>Thu, 28 Feb 2019 22:10:42 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000368/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000281</title>
-      <link>https://matdz.github.io/img/l1000281/</link>
-      <pubDate>Sat, 09 Feb 2019 19:56:00 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000281/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000325</title>
-      <link>https://matdz.github.io/img/l1000325/</link>
-      <pubDate>Sat, 09 Feb 2019 19:56:00 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000325/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/port-gamble-wa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>f31bdbe2</title>
-      <link>https://matdz.github.io/img/f31bdbe2/</link>
+      <link>http://localhost:1313/img/f31bdbe2/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://matdz.github.io/img/f31bdbe2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000121</title>
-      <link>https://matdz.github.io/img/l1000121/</link>
-      <pubDate>Sun, 06 Jan 2019 10:11:50 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1000121/</guid>
+      <guid>http://localhost:1313/img/f31bdbe2/</guid>
       <description></description>
     </item>
   </channel>

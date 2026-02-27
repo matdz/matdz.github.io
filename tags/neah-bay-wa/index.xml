@@ -2,45 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neah Bay, WA on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/neah-bay-wa/</link>
+    <link>http://localhost:1313/tags/neah-bay-wa/</link>
     <description>Recent content in Neah Bay, WA on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jun 2019 12:08:31 -0700</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/neah-bay-wa/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>L1010095</title>
-      <link>https://matdz.github.io/img/l1010095/</link>
-      <pubDate>Sat, 22 Jun 2019 12:08:31 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1010095/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1010098</title>
-      <link>https://matdz.github.io/img/l1010098/</link>
-      <pubDate>Sat, 22 Jun 2019 12:08:31 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1010098/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000583</title>
-      <link>https://matdz.github.io/img/l1000583/</link>
-      <pubDate>Sun, 07 Apr 2019 12:52:08 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1000583/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L1000586</title>
-      <link>https://matdz.github.io/img/l1000586/</link>
-      <pubDate>Sun, 07 Apr 2019 12:52:08 -0700</pubDate>
-      <guid>https://matdz.github.io/img/l1000586/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sun, 22 Jul 2018 19:47:29 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/neah-bay-wa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DSCF0290</title>
-      <link>https://matdz.github.io/img/dscf0290/</link>
+      <link>http://localhost:1313/img/dscf0290/</link>
       <pubDate>Sun, 22 Jul 2018 19:47:29 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0290/</guid>
+      <guid>http://localhost:1313/img/dscf0290/</guid>
       <description></description>
     </item>
   </channel>

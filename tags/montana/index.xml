@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Montana on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/montana/</link>
+    <link>http://localhost:1313/tags/montana/</link>
     <description>Recent content in Montana on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jul 2018 13:44:06 -0600</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/montana/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/montana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DSCF0001</title>
-      <link>https://matdz.github.io/img/dscf0001/</link>
+      <link>http://localhost:1313/img/dscf0001/</link>
       <pubDate>Sun, 01 Jul 2018 13:44:06 -0600</pubDate>
-      <guid>https://matdz.github.io/img/dscf0001/</guid>
+      <guid>http://localhost:1313/img/dscf0001/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0005</title>
-      <link>https://matdz.github.io/img/dscf0005/</link>
+      <link>http://localhost:1313/img/dscf0005/</link>
       <pubDate>Sat, 30 Jun 2018 23:38:08 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0005/</guid>
+      <guid>http://localhost:1313/img/dscf0005/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0043</title>
-      <link>https://matdz.github.io/img/dscf0043/</link>
+      <link>http://localhost:1313/img/dscf0043/</link>
       <pubDate>Sat, 30 Jun 2018 23:38:08 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0043/</guid>
+      <guid>http://localhost:1313/img/dscf0043/</guid>
       <description></description>
     </item>
   </channel>

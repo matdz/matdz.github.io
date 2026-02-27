@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kyl on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/kyl/</link>
+    <link>http://localhost:1313/tags/kyl/</link>
     <description>Recent content in Kyl on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Feb 2020 16:04:58 -0800</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/kyl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/kyl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IMG_2396</title>
-      <link>https://matdz.github.io/img/img_2396/</link>
+      <link>http://localhost:1313/img/img_2396/</link>
       <pubDate>Sat, 15 Feb 2020 16:04:58 -0800</pubDate>
-      <guid>https://matdz.github.io/img/img_2396/</guid>
+      <guid>http://localhost:1313/img/img_2396/</guid>
       <description></description>
     </item>
     <item>
       <title>L1010456</title>
-      <link>https://matdz.github.io/img/l1010456/</link>
+      <link>http://localhost:1313/img/l1010456/</link>
       <pubDate>Fri, 14 Feb 2020 16:00:02 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010456/</guid>
+      <guid>http://localhost:1313/img/l1010456/</guid>
       <description></description>
     </item>
     <item>
       <title>L1010461</title>
-      <link>https://matdz.github.io/img/l1010461/</link>
+      <link>http://localhost:1313/img/l1010461/</link>
       <pubDate>Fri, 14 Feb 2020 16:00:02 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010461/</guid>
+      <guid>http://localhost:1313/img/l1010461/</guid>
       <description></description>
     </item>
     <item>
       <title>IMG_0694</title>
-      <link>https://matdz.github.io/img/img_0694/</link>
+      <link>http://localhost:1313/img/img_0694/</link>
       <pubDate>Tue, 23 Jul 2019 11:21:28 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0694/</guid>
+      <guid>http://localhost:1313/img/img_0694/</guid>
       <description></description>
     </item>
     <item>
       <title>IMG_0705</title>
-      <link>https://matdz.github.io/img/img_0705/</link>
+      <link>http://localhost:1313/img/img_0705/</link>
       <pubDate>Tue, 23 Jul 2019 11:21:28 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_0705/</guid>
+      <guid>http://localhost:1313/img/img_0705/</guid>
       <description></description>
     </item>
     <item>
       <title>IMG_20180824_050047</title>
-      <link>https://matdz.github.io/img/img_20180824_050047/</link>
+      <link>http://localhost:1313/img/img_20180824_050047/</link>
       <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180824_050047/</guid>
+      <guid>http://localhost:1313/img/img_20180824_050047/</guid>
       <description></description>
     </item>
     <item>
       <title>IMG_20180824_091819</title>
-      <link>https://matdz.github.io/img/img_20180824_091819/</link>
+      <link>http://localhost:1313/img/img_20180824_091819/</link>
       <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180824_091819/</guid>
+      <guid>http://localhost:1313/img/img_20180824_091819/</guid>
       <description></description>
     </item>
     <item>
       <title>IMG_20180824_141221</title>
-      <link>https://matdz.github.io/img/img_20180824_141221/</link>
+      <link>http://localhost:1313/img/img_20180824_141221/</link>
       <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180824_141221/</guid>
+      <guid>http://localhost:1313/img/img_20180824_141221/</guid>
       <description></description>
     </item>
     <item>
       <title>IMG_20180824_150922</title>
-      <link>https://matdz.github.io/img/img_20180824_150922/</link>
+      <link>http://localhost:1313/img/img_20180824_150922/</link>
       <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180824_150922/</guid>
+      <guid>http://localhost:1313/img/img_20180824_150922/</guid>
       <description></description>
     </item>
     <item>
       <title>IMG_20180824_160230</title>
-      <link>https://matdz.github.io/img/img_20180824_160230/</link>
+      <link>http://localhost:1313/img/img_20180824_160230/</link>
       <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180824_160230/</guid>
+      <guid>http://localhost:1313/img/img_20180824_160230/</guid>
       <description></description>
     </item>
   </channel>

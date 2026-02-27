@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cle Elum, WA on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/cle-elum-wa/</link>
+    <link>http://localhost:1313/tags/cle-elum-wa/</link>
     <description>Recent content in Cle Elum, WA on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Sep 2018 19:18:25 -0700</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/cle-elum-wa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cle-elum-wa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DSCF0491</title>
-      <link>https://matdz.github.io/img/dscf0491/</link>
+      <link>http://localhost:1313/img/dscf0491/</link>
       <pubDate>Sun, 16 Sep 2018 19:18:25 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0491/</guid>
+      <guid>http://localhost:1313/img/dscf0491/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0514</title>
-      <link>https://matdz.github.io/img/dscf0514/</link>
+      <link>http://localhost:1313/img/dscf0514/</link>
       <pubDate>Sun, 16 Sep 2018 19:18:25 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0514/</guid>
+      <guid>http://localhost:1313/img/dscf0514/</guid>
       <description></description>
     </item>
     <item>
       <title>Feb3053c</title>
-      <link>https://matdz.github.io/img/feb3053c/</link>
+      <link>http://localhost:1313/img/feb3053c/</link>
       <pubDate>Sat, 15 Sep 2018 18:47:34 -0800</pubDate>
-      <guid>https://matdz.github.io/img/feb3053c/</guid>
+      <guid>http://localhost:1313/img/feb3053c/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0714</title>
-      <link>https://matdz.github.io/img/dscf0714/</link>
+      <link>http://localhost:1313/img/dscf0714/</link>
       <pubDate>Mon, 23 Mar 2015 19:41:49 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0714/</guid>
+      <guid>http://localhost:1313/img/dscf0714/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0770</title>
-      <link>https://matdz.github.io/img/dscf0770/</link>
+      <link>http://localhost:1313/img/dscf0770/</link>
       <pubDate>Mon, 23 Mar 2015 19:41:49 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0770/</guid>
+      <guid>http://localhost:1313/img/dscf0770/</guid>
       <description></description>
     </item>
     <item>
       <title>DSCF0804</title>
-      <link>https://matdz.github.io/img/dscf0804/</link>
+      <link>http://localhost:1313/img/dscf0804/</link>
       <pubDate>Mon, 23 Mar 2015 19:33:15 -0700</pubDate>
-      <guid>https://matdz.github.io/img/dscf0804/</guid>
+      <guid>http://localhost:1313/img/dscf0804/</guid>
       <description></description>
     </item>
   </channel>

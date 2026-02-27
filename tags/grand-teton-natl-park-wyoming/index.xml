@@ -2,94 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grand Teton Nat&#39;l Park, Wyoming on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/grand-teton-natl-park-wyoming/</link>
+    <link>http://localhost:1313/tags/grand-teton-natl-park-wyoming/</link>
     <description>Recent content in Grand Teton Nat&#39;l Park, Wyoming on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Aug 2018 23:02:24 -0800</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/grand-teton-natl-park-wyoming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/grand-teton-natl-park-wyoming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Facf93fb</title>
-      <link>https://matdz.github.io/img/facf93fb/</link>
+      <link>http://localhost:1313/img/facf93fb/</link>
       <pubDate>Fri, 24 Aug 2018 23:02:24 -0800</pubDate>
-      <guid>https://matdz.github.io/img/facf93fb/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180823_120952</title>
-      <link>https://matdz.github.io/img/img_20180823_120952/</link>
-      <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180823_120952/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180823_163818</title>
-      <link>https://matdz.github.io/img/img_20180823_163818/</link>
-      <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180823_163818/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180823_165423</title>
-      <link>https://matdz.github.io/img/img_20180823_165423/</link>
-      <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180823_165423/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180823_195826</title>
-      <link>https://matdz.github.io/img/img_20180823_195826/</link>
-      <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180823_195826/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180824_050047</title>
-      <link>https://matdz.github.io/img/img_20180824_050047/</link>
-      <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180824_050047/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180824_091819</title>
-      <link>https://matdz.github.io/img/img_20180824_091819/</link>
-      <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180824_091819/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180824_121941</title>
-      <link>https://matdz.github.io/img/img_20180824_121941/</link>
-      <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180824_121941/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180824_141221</title>
-      <link>https://matdz.github.io/img/img_20180824_141221/</link>
-      <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180824_141221/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180824_150922</title>
-      <link>https://matdz.github.io/img/img_20180824_150922/</link>
-      <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180824_150922/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180824_160230</title>
-      <link>https://matdz.github.io/img/img_20180824_160230/</link>
-      <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180824_160230/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IMG_20180825_083150</title>
-      <link>https://matdz.github.io/img/img_20180825_083150/</link>
-      <pubDate>Fri, 24 Aug 2018 22:56:40 -0700</pubDate>
-      <guid>https://matdz.github.io/img/img_20180825_083150/</guid>
+      <guid>http://localhost:1313/img/facf93fb/</guid>
       <description></description>
     </item>
   </channel>

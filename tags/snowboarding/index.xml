@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snowboarding on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/snowboarding/</link>
+    <link>http://localhost:1313/tags/snowboarding/</link>
     <description>Recent content in Snowboarding on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Feb 2020 16:04:58 -0800</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/snowboarding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/snowboarding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IMG_2395</title>
-      <link>https://matdz.github.io/img/img_2395/</link>
+      <link>http://localhost:1313/img/img_2395/</link>
       <pubDate>Sat, 15 Feb 2020 16:04:58 -0800</pubDate>
-      <guid>https://matdz.github.io/img/img_2395/</guid>
+      <guid>http://localhost:1313/img/img_2395/</guid>
       <description></description>
     </item>
     <item>
       <title>IMG_2396</title>
-      <link>https://matdz.github.io/img/img_2396/</link>
+      <link>http://localhost:1313/img/img_2396/</link>
       <pubDate>Sat, 15 Feb 2020 16:04:58 -0800</pubDate>
-      <guid>https://matdz.github.io/img/img_2396/</guid>
+      <guid>http://localhost:1313/img/img_2396/</guid>
       <description></description>
     </item>
     <item>
       <title>L1010456</title>
-      <link>https://matdz.github.io/img/l1010456/</link>
+      <link>http://localhost:1313/img/l1010456/</link>
       <pubDate>Fri, 14 Feb 2020 16:00:02 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010456/</guid>
+      <guid>http://localhost:1313/img/l1010456/</guid>
       <description></description>
     </item>
     <item>
       <title>L1010460</title>
-      <link>https://matdz.github.io/img/l1010460/</link>
+      <link>http://localhost:1313/img/l1010460/</link>
       <pubDate>Fri, 14 Feb 2020 16:00:02 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010460/</guid>
+      <guid>http://localhost:1313/img/l1010460/</guid>
       <description></description>
     </item>
     <item>
       <title>L1010461</title>
-      <link>https://matdz.github.io/img/l1010461/</link>
+      <link>http://localhost:1313/img/l1010461/</link>
       <pubDate>Fri, 14 Feb 2020 16:00:02 -0800</pubDate>
-      <guid>https://matdz.github.io/img/l1010461/</guid>
+      <guid>http://localhost:1313/img/l1010461/</guid>
       <description></description>
     </item>
   </channel>

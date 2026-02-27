@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacob on Matteo takes Photos</title>
-    <link>https://matdz.github.io/tags/jacob/</link>
+    <link>http://localhost:1313/tags/jacob/</link>
     <description>Recent content in Jacob on Matteo takes Photos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://matdz.github.io/tags/jacob/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/jacob/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>fd58e116</title>
-      <link>https://matdz.github.io/img/fd58e116/</link>
+      <link>http://localhost:1313/img/fd58e116/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://matdz.github.io/img/fd58e116/</guid>
+      <guid>http://localhost:1313/img/fd58e116/</guid>
       <description></description>
     </item>
     <item>
       <title>F28e7375</title>
-      <link>https://matdz.github.io/img/f28e7375/</link>
+      <link>http://localhost:1313/img/f28e7375/</link>
       <pubDate>Mon, 26 Mar 2018 21:20:56 -0800</pubDate>
-      <guid>https://matdz.github.io/img/f28e7375/</guid>
+      <guid>http://localhost:1313/img/f28e7375/</guid>
       <description></description>
     </item>
   </channel>
